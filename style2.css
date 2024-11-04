@@ -1,0 +1,29 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #121212;
+    color: #e0e0e0;
+}
+  .navbar {
+    border-bottom: 2px solid #ffffff;
+  }
+  .navbar-brand, .nav-link {
+    color: #e0e0e0;
+  }
+  .navbar-nav .nav-link.active {
+    font-weight: bold;
+  }
+  .card {
+    border: 2px solid #ffffff;
+    background-color: #1e1e1e;
+  }
+  
+  .card-body {
+    padding: 1rem;
+  }
+  .card-title {
+    color: #f44336;
+  }
+  .card-text {
+    color: #e0e0e0;
+  }
+          
